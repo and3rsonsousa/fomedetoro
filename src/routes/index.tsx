@@ -15,6 +15,9 @@ export default component$(() => {
 					Aqui tem Entrega grátis para Cidade dos Funcionários e
 					Região ( 5km ).
 				</div>
+				<a download href="cardapio.pdf" class="link">
+					Cardápio
+				</a>
 				<a
 					href="https://www.ifood.com.br/delivery/fortaleza-ce/fome-de-toro-cidade-dos-funcionarios/54e0ce83-3306-429e-bac5-0de2d2c3a9f7"
 					class="link"
