@@ -15,7 +15,7 @@ export default component$(() => {
 					Aqui tem Entrega grátis para Cidade dos Funcionários e
 					Região ( 5km ).
 				</div>
-				<a download href="cardapio.pdf" class="link">
+				<a href="cardapio.pdf" class="link">
 					Cardápio
 				</a>
 				<a
